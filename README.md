@@ -4,6 +4,10 @@ Small double-click macOS utilities, each an Automator app with its source kept
 next to it as a plain script, so it can be read, diffed and rebuilt without opening
 Automator.
 
+If you like this or find it useful, support the project by buying me a coffee.
+
+<a href="https://www.buymeacoffee.com/antoniocosta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 140px !important;" ></a>
+
 | Utility | What it does |
 |---|---|
 | [Laptop Display Toggle](#laptop-display-toggle) | Use an external monitor with the MacBook lid open and its screen off, so Touch ID stays within reach. |
